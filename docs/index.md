@@ -22,5 +22,5 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 This is a test
 
 ```
---8<-- "./docs/code-snippets/test.js"  
+--8<-- "./docs/code_snippets/test.js" 
 ```
